@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=generic
+ro.product.bootimage.device=RMX1941
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=Realme C2
+ro.product.bootimage.name=cipher_RMX1941
+ro.bootimage.build.date=Sun Apr 10 10:18:56 IST 2022
+ro.bootimage.build.date.utc=1649566136
+ro.bootimage.build.fingerprint=google/coral/coral:12/SP2A.220405.003/8210211:user/release-keys
+ro.bootimage.build.id=SP2A.220405.004
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=eng.basu.20220410.102103
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
